@@ -78,4 +78,20 @@ AI-VOX3 is a high-performance embedded development board designed specifically f
 
 ![](./picture/arduino_ide_select_esp32s3_board.png)
 
+[click here download arduino test demo](https://github.com/nulllaborg/esp32s3-audio-board/releases/download/V1.0.0.0/ai-vox3_arduino_test_demo.zip)
+
+| Test file name         | Dependency library | function                                       |
+| ---------------------- | ------------------ | ---------------------------------------------- |
+| ai_vox3_lcd.ino        | Arduino_GFX        | Test LCD display                               |
+| es8311_test.ino        |                    | Microphone and amplifier speaker loopback test |
+| esp8311_sdmmc_test.ino | ESP32-audioI2S     | Play test.mp3 from the SD card root directory  |
+
+install library step
+
+![](./picture/arduino_ide_install_lib.png)
+
+[Click here download product 3D file](https://github.com/nulllaborg/esp32s3-audio-board/releases/download/V1.0.0.0/ai-vox3_3d.zip)
+
+[Click here view esp32s3 datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf)
+
 
