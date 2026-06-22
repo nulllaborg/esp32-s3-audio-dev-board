@@ -94,4 +94,6 @@ install library step
 
 [Click here view esp32s3 datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf)
 
+[Click here view home assistant voice satellite](https://github.com/nulllaborg/ai-vox3_home_assistant_voice_satellite)
+
 
